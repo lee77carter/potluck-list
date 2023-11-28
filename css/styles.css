@@ -13,10 +13,11 @@ body {
   margin: 0;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
-  color: rgb(46, 42, 42);
+  color: rgb(7, 7, 6);
   font-size: 16px;
   text-align: center;
-  background-image: #fff;
+  background-image: url("../img/cheesy.png");
+  background-repeat:round;
   font-family: "Open Sans", sans-serif;
   margin-top: 3rem;
 }
